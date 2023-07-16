@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eli-reid
-- 👀 I’m interested in python, react, c, c++
+- 👀 I’m interested in python, c, c++
 - 💞️ I’m looking to collaborate on things 
 - 📫 How to reach me elir@elireid.com
 
